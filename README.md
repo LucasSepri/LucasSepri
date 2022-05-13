@@ -1,45 +1,15 @@
 # LucasSepri
 
-[![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)<br>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
-
-
 <div align="center">
   
   <!--   <a href="https://github.com/LeoAoki"> -->
   <a href="https://leonardo-aoki.vercel.app">
+   [![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
     
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=dark"/>
     
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=radical"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=merko"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=gruvbox"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=tokyonight"/>     -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=onedark"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=cobalt"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=synthwave"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=highcontrast"/> -->
-    
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=dracula"/>     -->
-    
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAoki&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
   
 <div style="display: inline_block"><br>
