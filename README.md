@@ -1,11 +1,9 @@
 # LucasSepri
 
 <div align="center">
-  
-  <!--   <a href="https://github.com/LeoAoki"> -->
-  <a href="https://leonardo-aoki.vercel.app">
-   [![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)
+  [![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
+  <a href="https://github.com/LeoAoki">    
     
     
   <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoAoki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
