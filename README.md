@@ -1,13 +1,14 @@
-# #️⃣LucasSepri♾️
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
-[![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)
-<div align="center">
-   
+# <div align="center"><h3>LucasSepri</h3>
+  <a href="https://github.com/rafaballerini">
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical"/>
 </div>
+<!--[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
+[![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)-->
+
 
 <a href="https://github.com/LucasSepri"> 
-<div style="display: inline_block"><br>
+
   
   <!-- https://devicon.dev -->
   <img align="center" alt="Aoki-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
