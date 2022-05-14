@@ -1,5 +1,5 @@
-# <div align="center"><h3>LucasSepri</h3>
-  <a href="https://github.com/rafaballerini">
+# <div align="center"><h3>Lucas Sepriano</h3>
+  <a href="https://github.com/LucasSepri">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical"/>
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical"/>
 </div>
