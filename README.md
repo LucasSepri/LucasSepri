@@ -1,4 +1,4 @@
-# LucasSepri
+# #️⃣LucasSepri♾️
 
 [![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)
   [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
@@ -22,12 +22,12 @@
   <img align="center" alt="Aoki-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Aoki-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Aoki-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Aoki-pic" height="150" src="https://i.picasion.com/pic91/8c2bce3509b8b9fb79fe6fe430024741.gif">
+  <img align="right" alt="Aoki-pic" height="150" src="http://pa1.narvii.com/6891/962d3dc919b273c7435a76690719644640377f9cr1-320-287_00.gif">
   
 </div>
 
 ##
 
-# Let's have a coffee break ☕
-
+# “The only way to do great work is to love what you do.” – Steve Jobs. 📌
+  
 ![Snake animation](https://github.com/LeoAoki/LeoAoki/blob/output/github-contribution-grid-snake.svg)
