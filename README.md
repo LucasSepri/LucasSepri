@@ -19,7 +19,8 @@
   <img align="center" alt="Aoki-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Aoki-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   <a href="https://www.figma.com/@Sepriano"><img align="center" alt="Aoki-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-  <img align="right" alt="Aoki-pic" height="150" src="http://pa1.narvii.com/6891/962d3dc919b273c7435a76690719644640377f9cr1-320-287_00.gif">
+   
+  <img  align="right" alt="Aoki-pic" height="150" src="http://pa1.narvii.com/6891/962d3dc919b273c7435a76690719644640377f9cr1-320-287_00.gif">
   
 </div>
 
@@ -27,4 +28,4 @@
 
 # “The only way to do great work is to love what you do.” – Steve Jobs. 📌
   
-![Snake animation](https://github.com/LeoAoki/LeoAoki/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasSepri/LucasSepri/blob/output/github-contribution-grid-snake.svg)
