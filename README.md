@@ -28,4 +28,4 @@
 
 # “The only way to do great work is to love what you do.” – Steve Jobs. 📌
   
-![Snake animation](https://github.com/LucasSepri/LucasSepri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LucasSepri/LucasSepri/blob/main/blob/output/github-contribution-grid-snake.svg)
