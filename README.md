@@ -1,7 +1,7 @@
 # <div align="center"><h3>LucasSepri</h3>
   <a href="https://github.com/rafaballerini">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical"/>
 </div>
 <!--[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSepri&hide=html&layout=compact=true&theme=radical)](https://github.com/LucasSerpri/)
 [![card](https://github-readme-stats.vercel.app/api?username=LucasSepri&theme=radical)](https://github.com/FabioNeves28/)-->
