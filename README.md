@@ -22,12 +22,12 @@
   <a href="https://www.figma.com/@Sepriano"><img align="center" alt="Aoki-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
    
   
-  
+<a href="https://github.com/LucasSepri"><img  align="right" alt="Aoki-pic" height="150" src="http://pa1.narvii.com/6891/962d3dc919b273c7435a76690719644640377f9cr1-320-287_00.gif">  
 </div>
 
 ##
 
-# “The only way to do great work is to love what you do.” – Steve Jobs. 📌 <a href="https://github.com/LucasSepri"><img  align="right" alt="Aoki-pic" height="150" src="http://pa1.narvii.com/6891/962d3dc919b273c7435a76690719644640377f9cr1-320-287_00.gif">
+# “The only way to do great work is to love what you do.” – Steve Jobs. 📌 
  
   <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
